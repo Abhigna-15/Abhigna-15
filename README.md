@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhigna-15
-- 👀 I’m interested in VLSI core 
+- 👀 I’m interested in IOT and Embedded system
 - 🌱 I’m currently learning ECE 
 - 💞️ I’m looking to collaborate on core companies 
 - 📫 How to reach me Vijayawada 
